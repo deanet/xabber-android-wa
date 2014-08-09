@@ -1,0 +1,6 @@
+bin/*
+gen/*
+*.orig
+.pydevproject
+.settings
+*~
